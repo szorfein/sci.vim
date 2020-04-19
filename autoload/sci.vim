@@ -13,21 +13,21 @@ let g:sci#palette.comment   = ['#355CA5',  61]
 let g:sci#palette.selection = ['#192F3A', 239]
 let g:sci#palette.subtle    = ['#1A2C3F', 238]
 
-let g:sci#palette.orange    = ['#674EF3', 215]
+let g:sci#palette.orange    = ['#674EF3', 63]
 
 let g:sci#palette.red       = ['#F3674E', 203]
-let g:sci#palette.green     = ['#4EF36E',  84]
+let g:sci#palette.green     = ['#88F8AB', 121]
 let g:sci#palette.yellow    = ['#F2D49D', 228]
 
-let g:sci#palette.purple    = ['#4E88F3', 141]
-let g:sci#palette.pink      = ['#4EDAF3', 212]
-let g:sci#palette.cyan      = ['#4EF3B9', 117]
+let g:sci#palette.purple    = ['#4E88F3', 69]
+let g:sci#palette.pink      = ['#4EDAF3', 81]
+let g:sci#palette.cyan      = ['#4EF3B9', 85]
 "
 " ANSI
 "
 let g:sci#palette.color_0  = '#12171C'
 let g:sci#palette.color_1  = '#F36743'
-let g:sci#palette.color_2  = '#4EF36E'
+let g:sci#palette.color_2  = '#88F8AB'
 let g:sci#palette.color_3  = '#F2D49D'
 let g:sci#palette.color_4  = '#4E88F3'
 let g:sci#palette.color_5  = '#4EDAF3'
