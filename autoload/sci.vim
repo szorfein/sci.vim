@@ -6,22 +6,22 @@ let g:sci#palette.fg        = ['#E3FAFE', 253]
 let g:sci#palette.bglighter = ['#213035', 238] 
 let g:sci#palette.bglight   = ['#1B272B', 237]
 let g:sci#palette.bg        = ['#161D23', 236]
-let g:sci#palette.bgdark    = ['#12171C', 235]
-let g:sci#palette.bgdarker  = ['#0D1014', 234]
+let g:sci#palette.bgdark    = ['#141A21', 235]
+let g:sci#palette.bgdarker  = ['#12171E', 234]
 
 let g:sci#palette.comment   = ['#355CA5',  61]
-let g:sci#palette.selection = ['#192F3A', 239]
-let g:sci#palette.subtle    = ['#1A2C3F', 238]
+let g:sci#palette.selection = ['#22333F', 239]
+let g:sci#palette.subtle    = ['#203F3F', 238]
 
-let g:sci#palette.orange    = ['#674EF3', 63]
+let g:sci#palette.orange    = ['#674EF3', 215]
 
 let g:sci#palette.red       = ['#F3674E', 203]
-let g:sci#palette.green     = ['#88F8AB', 121]
+let g:sci#palette.green     = ['#8BF8AB', 121]
 let g:sci#palette.yellow    = ['#F2D49D', 228]
 
-let g:sci#palette.purple    = ['#4E88F3', 69]
-let g:sci#palette.pink      = ['#4EDAF3', 81]
-let g:sci#palette.cyan      = ['#4EF3B9', 85]
+let g:sci#palette.purple    = ['#4E88F3', 141]
+let g:sci#palette.pink      = ['#4EDAF3', 212]
+let g:sci#palette.cyan      = ['#4EF3B9', 117]
 "
 " ANSI
 "
